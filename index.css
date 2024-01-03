@@ -1,0 +1,22 @@
+.blog{
+
+    background-color: tomato;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+    width: 75%;
+    border-right: 10px solid gray;
+    border-radius: 0px 30px 0px 0px;
+}
+.flower{
+
+    height: 200px;
+    width: 50%;
+    margin-left: 20%;
+}
+
+*{
+
+    margin: 0;
+    padding: 0;
+}
